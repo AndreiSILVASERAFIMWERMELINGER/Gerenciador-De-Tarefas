@@ -5,7 +5,7 @@ public class Calculadora_Java {
 		
 		Scanner teclado = new Scanner(System.in);
 		double resultado = 0;
-		//teste
+		//teste1
 		System.out.println("Digite o primeiro valor: ");
 		double primeiroValor = teclado.nextDouble();
 		
