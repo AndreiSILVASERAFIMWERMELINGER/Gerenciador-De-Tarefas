@@ -6,7 +6,7 @@ public class chat_bot {
 		
 		 Scanner teclado = new Scanner(System.in);
 		 
-		 
+		 //teste
 		 
 		 System.out.println("Digite o numero de termos ");
 		 int numero = teclado.nextInt();

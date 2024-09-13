@@ -5,7 +5,7 @@ public class jogo_adivinhação {
 	public static void main(String[] args) {
 		
 		Scanner teclado = new Scanner(System.in);
-		
+		//teste
 		System.out.println("Tente adivinhar o valor, jogue um numero ai: ");
 		int usuario = teclado.nextInt();
 		
